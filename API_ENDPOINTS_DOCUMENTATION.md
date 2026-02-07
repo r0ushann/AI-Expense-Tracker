@@ -812,11 +812,11 @@ You can import these endpoints into Postman using this structure:
 
 ## Rate Limiting
 
-Currently, there are no rate limits, but in production you should consider:
+Currently, there are no rate limits, but in production we should consider:
 - Limiting requests per minute per IP
 - API key-based authentication
 - Request throttling for AI categorization calls
 
 ---
 
-This documentation covers all 9 endpoints with complete request/response examples. Use it to integrate with frontend applications or for API testing.
+This documentation covers all 9 endpoints with complete request/response examples. We will use it to integrate with frontend applications or for API testing.
